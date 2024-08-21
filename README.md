@@ -12,10 +12,10 @@
 ## Screenshots
 
 ### 1. Welcome, Login, and Dashboard
-![Welcome, Login, and Dashboard](![Merged_1_3](https://github.com/user-attachments/assets/c52c95b8-946b-402b-97a1-6a8ac800fef1))
+![Welcome, Login, and Dashboard](https://github.com/user-attachments/assets/c52c95b8-946b-402b-97a1-6a8ac800fef1)
 
 ### 2. Upload Screens for Retinal and OCT Scans
-![Upload Screens](![Merged_4_5](https://github.com/user-attachments/assets/b3c72357-372f-4158-b501-c4e658942723))
+![Upload Screens](https://github.com/user-attachments/assets/b3c72357-372f-4158-b501-c4e658942723)
 
 ## Technology Stack
 
