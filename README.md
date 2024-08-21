@@ -15,7 +15,7 @@
 ![Welcome, Login, and Dashboard](https://github.com/user-attachments/assets/c52c95b8-946b-402b-97a1-6a8ac800fef1)
 
 ### 2. Upload Screens for Retinal and OCT Scans
-![Upload Screens](https://github.com/user-attachments/assets/b3c72357-372f-4158-b501-c4e658942723)
+![Upload Screens](https://github.com/user-attachments/assets/0c171e28-136b-46b3-9175-2dbedf75275c)
 
 ## Technology Stack
 
@@ -32,13 +32,13 @@
    cd RetScan
    ```
 2. **Install dependencies**:
-  ```bash
-  flutter pub get
-  ```
+   ```bash
+   flutter pub get
+   ```
 3. **Run the app**:
-  ```bash
-  flutter run
-  ```
+   ```bash
+   flutter run
+   ```
 4. **Backend Setup**:
 The Flask server hosting the machine learning models should be set up on AWS. Ensure the API endpoints in the Flutter app are correctly configured to point to your Flask deployment.
 
