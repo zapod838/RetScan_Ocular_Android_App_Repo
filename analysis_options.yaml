@@ -1,0 +1,11 @@
+include: package:flutter_lints/flutter.yaml
+
+linter:
+  rules:
+    avoid_print: false  # Allows the use of the print statement.
+    prefer_const_constructors_in_immutables: false  # Does not require const constructors in immutable classes.
+    prefer_const_constructors: false  # Does not require const constructors where possible.
+    prefer_const_literals_to_create_immutables: false  # Does not prefer const literals in creating immutable collections.
+    prefer_final_fields: false  # Does not enforce fields to be declared final.
+    unnecessary_breaks: true  # Warns about break statements that don't impact the code flow.
+    use_key_in_widget_constructors: false  # Does not require keys in widget constructors.
